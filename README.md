@@ -5,8 +5,6 @@
 <p align="center">
 
 <a href="https://anu31d.github.io/Mann---Your-Safe-Space-/">🌐 Live Demo</a> •
-<a href="https://YOUR-DEMO-VIDEO-LINK">🎥 Demo Video</a> •
-<a href="https://YOUR-PPT-LINK">📄 Presentation</a>
 
 
 ---
@@ -351,83 +349,6 @@ MANN/
 
 ---
 
-# ⚙️ Installation & Setup
-
-## 1. Clone Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/MANN.git
-cd MANN
-```
-
-## 2. Install Dependencies
-
-```bash
-npm install
-```
-
-## 3. Configure Environment Variables
-
-Create:
-
-```bash
-cp .env.example .env
-```
-
-Add:
-
-```env
-GEMINI_API_KEY=YOUR_API_KEY
-```
-
----
-
-## 4. Start Development Server
-
-```bash
-npm run dev
-```
-
----
-
-## 5. Build Production Version
-
-```bash
-npm run build
-```
-
----
-
-## 6. Lint Code
-
-```bash
-npm run lint
-```
-
----
-
-# 🚀 Deployment
-
-The application supports:
-
-- GitHub Pages
-- Vercel
-- Netlify
-
-GitHub Actions automatically:
-
-1. Installs dependencies
-2. Builds production bundle
-3. Deploys application
-4. Publishes latest release
-
-Workflow file:
-
-```text
-.github/workflows/deploy.yml
-```
-
----
 
 # 🛡️ Challenges & Learnings
 
@@ -461,18 +382,7 @@ Balancing empathy, usefulness, and safety without becoming clinical was one of t
 - [ ] Anonymous Community Spaces
 - [ ] Advanced Analytics Dashboard
 
----
 
-# 👥 Team
-
-Built with ❤️ for the Capgemini Hackathon.
-
-### Team Members
-
-- Member 1
-- Member 2
-- Member 3
-- Member 4
 
 ---
 
