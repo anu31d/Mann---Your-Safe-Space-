@@ -214,31 +214,6 @@ We asked:
 
 The result is Mann.
 
----
-
-# 📸 Application Preview
-
-## 🏡 Sanctuary Dashboard
-
-![Dashboard](./assets/screenshots/dashboard.png)
-
----
-
-## 💬 Whispers Chat
-
-![Whispers Chat](./assets/screenshots/chat.png)
-
----
-
-## 🔮 CBT Untangler
-
-![CBT Untangler](./assets/screenshots/cbt.png)
-
----
-
-## 🌸 Living Garden
-
-![Living Garden](./assets/screenshots/garden.png)
 
 ---
 
