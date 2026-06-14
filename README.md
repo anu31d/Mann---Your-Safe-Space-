@@ -8,29 +8,6 @@
 <a href="https://YOUR-DEMO-VIDEO-LINK">🎥 Demo Video</a> •
 <a href="https://YOUR-PPT-LINK">📄 Presentation</a>
 
-</p>
-
-<p align="center">
-  <img src="./assets/banner.png" alt="Mann Banner" width="100%">
-</p>
-
-<p align="center">
-Built for the <b>Capgemini Hackathon</b> · Healthcare & Wellness · Use Case #21
-</p>
-
----
-
-# 🌍 Live Deployment
-
-### Experience Mann Here
-
-👉 **https://YOUR-USERNAME.github.io/MANN/**
-
-or
-
-👉 **https://mann.vercel.app**
-
-No installation required.
 
 ---
 
